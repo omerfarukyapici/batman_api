@@ -1,1 +1,1 @@
-# batman_api
+https://omerfarukyapici.github.io/batman_api/public/
