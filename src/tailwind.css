@@ -1,0 +1,4 @@
+/* Tailwind Setup for Vanilla Html Batman Api project */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

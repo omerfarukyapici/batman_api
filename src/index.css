@@ -1,0 +1,27 @@
+/* Vanilla Css Setup */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'DM Serif Display', serif;
+}
+
+.info_icon {
+    background-image: url(img/InfoIcon.svg);
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-color: none; 
+    position: absolute;
+    border-radius: 100%;
+    right: 0;
+    top: 0;
+}
